@@ -1,0 +1,11 @@
+SHORTCLIP
+=========
+
+1. Open this folder: SHORTCLIP
+2. Double-click "Run ShortClip.bat".
+3. The app opens in your browser at http://127.0.0.1:8769/app.
+4. Keep the black command window open while using it. Press Ctrl+C there to stop the server.
+
+The app runs on this computer only. Install FFmpeg if it is not already installed. Add an AI provider and key under Settings if you want AI-selected clips; otherwise it can pick clips by loudness.
+
+Python 3.13 must be installed on this computer if the local Python environment needs to be recreated. The original PeakCut folder and its existing clips and settings were left untouched.
